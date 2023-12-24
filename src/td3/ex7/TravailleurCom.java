@@ -15,7 +15,7 @@ public class TravailleurCom extends Employe
 
     @Override
     public String toString() {
-        return super.toString()+"salaire: "+gains();
+        return super.toString()+"salaire de patron: "+gains();
     }
 
     @Override
